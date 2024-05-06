@@ -1,0 +1,32 @@
+.pokeImage{
+    width: 300px; 
+   }
+   
+   .pokeImage2{
+    width: 300px; 
+     display:none;
+   }
+   
+   .first{
+       display:none;
+   }
+   
+   .second{
+       display:none;
+   }
+   
+   .electric{
+       display:none;
+   }
+   
+   .fire{
+       display:none;
+   }
+   
+   
+.poketext{
+    font-size: 250px;
+}
+.poketext2{
+    font-size: 250px;
+}
